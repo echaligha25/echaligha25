@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chaligha
+# 👋 I'm Chaligha
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🌍 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/echaligha25/)
-- [Twitter](https://twitter.com/echaligha25)
+- [LinkedIn](www.linkedin.com/in/eliewaha-chaligha-b3112417a)
+- [Twitter](https://x.com/chalighaeliewa1)
 
 Always Gratitude😊
