@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Echaligha25!
 
-<!--
-**echaligha25/echaligha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a passionate Payment Data Analyst with a love for learning new technologies.
+- 🌱 Currently diving deep into Data Engineering, Web3/Blockchain and exploring the world of open-source.
+- 💼 I enjoy working on collaborative projects and contributing to the developer community.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, Rust, Cairo
+- **Tools**: Git, Docker, VS Code
+- **Databases**: Oracle, MySQL, PostgreSQL,SQLServer,Snowflake 
+
+## 📈 GitHub Stats
+
+![Echaligha25's GitHub stats](https://github-readme-stats.vercel.app/api?username=echaligha25&show_icons=true&theme=radical)
+
+## 🌍 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/echaligha25/)
+- [Twitter](https://twitter.com/echaligha25)
+
+Always Gratitude😊
