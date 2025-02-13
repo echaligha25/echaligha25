@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Echaligha25!
+# 👋 Hi, I'm Chaligha
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
